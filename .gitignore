@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+data/raw/
+data/nfip_cells.parquet
+.venv/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+{
+  "title": "H-SHAP reproducibility package: hierarchical Owen value for auditing gradient-boosted insurance pricing models",
+  "upload_type": "software",
+  "description": "Code, locked pre-registration, reference results, encodings and LightGBM models used by the H-SHAP paper (hierarchical Owen value as an explanation-auditing mechanism for gradient-boosted models on hierarchical categorical representations in property insurance ratemaking), using public NFIP flood-insurance data. Raw OpenFEMA data are not included; see README.md for the replay procedure.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "creators": [{"name": "Hồ, Vũ Anh Tuấn", "affiliation": "Nguyễn Tất Thành University"}],
+  "keywords": ["Owen value", "Shapley value", "explainable AI", "insurance pricing", "NFIP", "reproducibility"],
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://github.com/hvanhtuan/HCE-EAGB-Reproducibility", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

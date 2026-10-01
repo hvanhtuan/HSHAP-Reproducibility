@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or the accompanying results, please cite the associated study."
+title: "H-SHAP reproducibility package"
+type: software
+version: 1.0.0
+date-released: 2026-10-01
+authors:
+  - family-names: "Hồ"
+    given-names: "Vũ Anh Tuấn"
+    orcid: "https://orcid.org/0009-0001-5503-9266"
+    affiliation: "Nguyễn Tất Thành University"
+license: MIT
+repository-code: "https://github.com/hvanhtuan/HSHAP-Reproducibility"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23086206
+    description: "Zenodo archive of v1.0.0"
+keywords:
+  - Owen value
+  - Shapley value
+  - explainable AI
+  - insurance pricing
+  - NFIP
+  - reproducibility
